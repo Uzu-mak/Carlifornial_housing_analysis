@@ -1,2 +1,3 @@
 # Carlifornial_housing_analysis
-Analysing , Visualizing and creating machine learning models to further predict and uderstand data.
+Analyzing, Visualizing, and creating machine learning models to predict further and understand data.
+
